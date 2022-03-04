@@ -51,7 +51,7 @@ print('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^')
 os.system('find /home/jhu/PycharmProjects/netmiko/cmd-set-ops/* |sed "s#.*/##"')
 os.system('echo')
 os.system('echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"')
-command_file = input("Please select what ops command you want to run: \n\noperation command: ")
+command_file = input("Please select which ops command you want to run: \n\noperation command: ")
 com_set = '/home/jhu/PycharmProjects/netmiko/cmd-set-ops/' + command_file
 
 print()
@@ -61,7 +61,7 @@ print('******************************')
 os.system('find /home/jhu/PycharmProjects/netmiko/device-group/* |sed "s#.*/##"')  # remove path info
 os.system('echo')
 os.system('echo "******************************"')
-device_group = input("Please select what device-group you want to apply to: \n\ndevice-group: ")
+device_group = input("Please select which device-group you want to apply to: \n\ndevice-group: ")
 dev_grp = '/home/jhu/PycharmProjects/netmiko/device-group/' + device_group
 
 username, password = get_credentials()
