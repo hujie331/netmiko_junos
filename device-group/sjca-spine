@@ -1,0 +1,10 @@
+[
+  {
+    "ip": "coresw01.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "coresw02.corp.sjca",
+    "device_type": "juniper"
+  }
+]

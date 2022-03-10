@@ -1,0 +1,106 @@
+[
+  {
+    "ip": "dist01.b2f2idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist02.b2f2idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access01.b2f2idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access02.b2f2idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access03.b2f2idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist01.b2f3idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist02.b2f3idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access01.b2f3idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access02.b2f3idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access03.b2f3idf.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "mgmtsw01.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "mgmtsw02.b4.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "core01.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "core02.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "edge01.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "edge02.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist01.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist02.corp.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist01.b4.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "dist02.b4.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access01.b1.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access02.b2.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access03.b6.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access01.c1.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access02.c2.bp01",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access03.c6.bp01",
+    "device_type": "juniper"
+  }
+]

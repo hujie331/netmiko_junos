@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "access01.sgcn.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access02.sgcn.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access03.sgcn.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "access04.sgcn.sjca",
+    "device_type": "juniper"
+  }
+]

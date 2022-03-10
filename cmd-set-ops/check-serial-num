@@ -1,0 +1,1 @@
+show chassis hardware | match chassis | trim 30

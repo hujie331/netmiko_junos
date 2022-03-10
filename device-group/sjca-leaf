@@ -1,0 +1,50 @@
+[
+  {
+    "ip": "edgesw01.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "edgesw02.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "distsw01.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "distsw02.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access01.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access02.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access03.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access04.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access05.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access06.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access07.corp.sjca",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "leaf-access08.corp.sjca",
+    "device_type": "juniper"
+  }
+]

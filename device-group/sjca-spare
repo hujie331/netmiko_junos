@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "spsw03",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "spsw04",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "spsw05",
+    "device_type": "juniper"
+  },
+  {
+    "ip": "spsw06",
+    "device_type": "juniper"
+  }
+]

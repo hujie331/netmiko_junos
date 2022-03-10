@@ -1,0 +1,1 @@
+show system uptime | match "Current time:"
