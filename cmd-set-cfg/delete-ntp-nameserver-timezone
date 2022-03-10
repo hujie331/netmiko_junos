@@ -1,0 +1,3 @@
+delete system ntp
+delete system name-server
+delete system time-zone
